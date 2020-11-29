@@ -1,4 +1,4 @@
-### Hi there, I'm Jaideep Thambi
+# Hi there, I'm Jaideep Thambi
 
 
 ## I'm a passionate data scientist and developer
