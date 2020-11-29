@@ -16,6 +16,26 @@
 
 <br />
 
+### Find me elsewhere
+<p align="left">
+  <a href="https://www.codechef.com/users/abhimaira_10">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/jaideepthambi96/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/jaideepthambi96">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codewars.com/users/jp_t_93">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+  ![Codewars](https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg)
+</p>
+
 ### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
