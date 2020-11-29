@@ -16,11 +16,13 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+[!PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+
+### Tools
 
 ![PostgreSQL](https://img.shields.io/badge/-TensorFlow-fff?&logo=TensorFlow&logoColor=ddc508)
 
