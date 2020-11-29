@@ -43,7 +43,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=TensorFlow&logoColor=ddc508)
 
 <br />
-<br />
 
 ---
 
