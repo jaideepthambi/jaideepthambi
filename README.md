@@ -3,7 +3,8 @@
 
 ## I'm a passionate data scientist and developer
 - I'm currently working as a Associate Data Scientist at @techvantageai
-- I work in problems in computer vision and statistical modelling
+- Most of my projects include areas such as computer vision and statistical modelling
+- I also work with deep learning architecutres and predictive analytics
 - I'm interested in learning to serve machine learning models at scale
 - I tell stories through visualisations in Tableau and PowerBI
 - Looking to contribute more to Open Source projects
@@ -12,8 +13,6 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 <br />
 
@@ -39,4 +38,4 @@
 </details>
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/jaideepthambi
