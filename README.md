@@ -1,7 +1,7 @@
 # Hi there, I'm Jaideep Thambi
 
 
-## I'm a passionate data scientist and developer
+## I'm a data scientist and software developer mostly working with Python
 - I'm currently working as a Associate Data Scientist at @techvantageai
 - Most of my projects include areas such as computer vision and statistical modelling
 - I also work with deep learning architecutres and predictive analytics
