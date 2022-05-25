@@ -2,12 +2,11 @@
 
 
 ## I'm a data scientist and software developer mostly working with Python
-- I'm currently working as a Associate Data Scientist at @techvantageai
-- Most of my projects include areas such as computer vision and statistical modelling
+- I'm currently working as a Software Developer at @Linkshadow
+- Most of my projects include areas in Unsupervised Learning
 - I also work with deep learning architecutres and predictive analytics
 - I'm interested in learning to serve machine learning models at scale
 - I tell stories through visualisations in Tableau and PowerBI
-- Looking to contribute more to Open Source projects
 
 
 
